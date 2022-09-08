@@ -1,0 +1,17 @@
+package kimjaehyeok;
+
+public class GameRunner {
+	
+	public static void main(String[] args) {
+		
+		GamingConsole game = new MarioGmae();
+		game.up();
+		game.down();
+		game.left();
+		game.right();
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+package kimjaehyeok;
+
+public interface Flyable {
+	void fly();
+	FlyableRunner Bird = new FlyableRunner();
+	FlyableRunner Aeroplane = new FlyableRunner();
+	
+
+}
